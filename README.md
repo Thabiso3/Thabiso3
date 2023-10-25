@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Flutter Mobile Software Development Projects:</h2>
 
-  - [Smart Alarm IoT Mobile Application](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Smart Alarm IoT Mobile Application](https://github.com/Thabiso3/Shok-Electronics-Iot/tree/main)
   - [Active Social Media Project](https://github.com/joshmadakor1/Algorithms-Practice)
 <!--
 <h2>📺 Popular YouTube Videos</h2>
