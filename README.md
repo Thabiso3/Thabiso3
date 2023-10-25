@@ -4,6 +4,7 @@
 
   - [Smart Alarm IoT Mobile Application](https://github.com/Thabiso3/Shok-Electronics-Iot/tree/main)
   - [Active Social Media Project](https://github.com/Thabiso3/Y-ANation/tree/main)
+  - [Active Todo Flutter_bloc project](https://github.com/Thabiso3/Todo_Cubit)
 <!--
 <h2>📺 Popular YouTube Videos</h2>
 
